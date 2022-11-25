@@ -1,0 +1,42 @@
+@charset "UTF-8";
+*{
+    border: 2px solid black;
+    padding: 2px;
+}
+header{
+    background-color: gray;
+    text-align: center;
+}
+h1{
+
+}
+nav{
+
+}
+main{
+    position: fixed;
+}
+section{
+    position: relative;
+}
+article{
+
+}
+h2{
+
+}
+p{
+
+}
+.interno{
+    
+    float:right;
+   
+}
+aside{
+    background-color: green;
+}
+footer{
+    clear: both;
+    background-color: gray;
+}
